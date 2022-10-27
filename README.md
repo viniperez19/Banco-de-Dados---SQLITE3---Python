@@ -1,0 +1,1 @@
+Funcionalidade do banco de dados: o sistema deve permitir que o artista possa identificar características comuns em músicas populares dos últimos 20 anos com a finalidade se espelhar e criar uma música com maiores chances de popularizar
